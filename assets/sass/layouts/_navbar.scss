@@ -1,0 +1,18 @@
+nav{
+    background-color: transparent;
+    backdrop-filter: blur(2px);
+}
+    .navbar-brand{
+        font-weight: 400;
+    }
+
+    .nav-link{
+        color: rgba($color: #ffffff, $alpha: 0.4);
+        font-weight: 400;
+    }
+
+    .nav-link:hover{
+        color: rgba($color: #FFFFFF, $alpha: 0.8);
+        transform: scale(1.08);
+    }
+

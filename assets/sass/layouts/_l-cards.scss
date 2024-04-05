@@ -1,0 +1,11 @@
+.rounded-start{
+    height: 250px;
+    object-fit: fill;
+    width: 100%;
+}
+
+@media (max-width:767px){
+    .rounded-start{
+        object-fit: cover;
+    }
+}

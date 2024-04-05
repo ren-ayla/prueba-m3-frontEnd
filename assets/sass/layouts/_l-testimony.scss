@@ -1,0 +1,48 @@
+//IMG Circle//
+.testimony-comment__circle{
+    width: 4rem;
+    height: 4rem;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 50%;
+    background: #ccc;
+
+    align-content: center;
+    align-self: center;
+}
+
+.testimony-comment__circle--img{
+    width: 3.9rem;
+    height: 3.9rem;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 50%;
+}
+
+.circle-center{
+    display: flex;
+    justify-content: center;
+
+    padding-top: 0.3rem;
+}
+
+//Layout//
+.testimony-comment{
+    padding-bottom: 1rem;
+
+    color: #DFC9A7;
+}
+
+.testimony-comment__text{
+    text-align: center;
+    padding-top: 2.5rem;
+    padding-right: 4.5rem;
+    padding-left: 4.5rem;
+}
+
+.testimony-comment__name{
+    font-size: 1.3rem;
+
+    padding-top: 1rem;
+
+}

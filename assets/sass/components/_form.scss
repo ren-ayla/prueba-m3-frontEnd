@@ -1,0 +1,59 @@
+.form-label{
+    color: #ccc;
+}
+
+.fa-circle-info{
+    color: #F8F9FA;
+
+    padding-left: 0.03rem;
+}
+
+.form-control{
+    color: #171717;
+    background-color: #F8F9FA;
+}
+
+.form-message{
+    padding-top: 1rem;
+}
+
+.form-checkbox{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.form-checkbox__click{
+    filter: invert(100%);
+    opacity: 1;    
+    
+    width: 0.9rem;
+    height: 0.9rem;
+}
+
+u{
+    color: #F8F9FA;
+
+    padding-left: 0.15rem;
+}
+
+.btn{
+    color: #171717;
+    background-color: #F8F9FA;
+}
+
+.btn:hover{
+        color: #171717;
+        background-color: #F8F9FA;
+}
+
+.info-empresa{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    color: #F8F9FA;
+}
+
+.socials i{
+    padding-right: 1rem;
+}

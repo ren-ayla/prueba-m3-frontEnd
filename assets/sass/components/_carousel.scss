@@ -1,0 +1,31 @@
+//lg sizes//
+.carousel-inner{
+    height: 500px;
+}
+
+.carousel-inner .carousel-item img{
+    height: 500px;
+}
+
+//medium and small sizes//
+@media (max-width:767px){
+    .carousel-inner{
+        height: 300px;
+    }
+} 
+
+@media (max-width:767px){
+    .carousel-inner .carousel-item img{
+        height: 300px;
+    }
+} 
+
+//Color change carousel//
+.carousel-control-prev, .carousel-control-next, .carousel-caption{
+        filter: invert(100%);
+        opacity: 0.9;
+    }
+
+    .carousel-indicators {
+        filter: invert(100%);
+    }

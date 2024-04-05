@@ -1,0 +1,26 @@
+//Import bootstrap//
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
+//Base and typography//
+@import 'base/base';
+
+@import 'base/typography';
+
+//Components//
+@import 'components/cards';
+
+@import 'components/carousel';
+
+@import 'components/form';
+
+//Layouts//
+@import 'layouts/border-radius';
+
+@import 'layouts/header';
+
+@import 'layouts/l-cards';
+
+@import 'layouts/l-testimony';
+
+@import 'layouts/navbar';
+

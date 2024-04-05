@@ -1,0 +1,42 @@
+.card{
+    border-color: #ccc;
+
+    background-color: #e7e5e5;
+}
+
+.card-title{
+    color: #171717;
+
+    font-weight: 700;
+    font-size: 1.4rem;
+}
+
+.card-text{
+    color: #171717;
+    font-weight: 400;
+    font-size: 1.1rem;
+}
+
+.price{
+    display: flex;
+    justify-content: space-around;
+
+    background-color: #F7F7F7;
+    border-top: 1.8px solid #c9c4c4;
+}
+
+.card-text-fly{
+    color: #171717;
+    font-size: 1.1rem;
+
+    padding-top: 0.6rem;
+}
+
+.card-text-price{
+    color: #171717;
+    font-size: 1.6rem;  
+    font-weight: 500;
+
+    padding-top: 0.3rem;
+
+}
